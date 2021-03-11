@@ -1,4 +1,4 @@
-export default [
+const people = [
   {
     id: 1,
     name: 'Julio Molina',
@@ -9,7 +9,7 @@ export default [
   {
     id: 2,
     name: 'Rocco Sangellino',
-    timezone: 'America/Los_Angeles',
+    timezone: 'America/Denver',
     image:
       'https://pbs.twimg.com/profile_images/1369046630779908098/gjQqL1dH_400x400.jpg',
   },
@@ -48,4 +48,12 @@ export default [
     image:
       'https://pbs.twimg.com/profile_images/1339937435879415809/5Auv4Yf-_400x400.jpg',
   },
+  {
+    id: 7,
+    name: 'Kelsi Proulx',
+    timezone: 'America/Los_Angeles',
+    image:
+      'https://pbs.twimg.com/profile_images/1369160136141377539/biO8qtON_400x400.jpg',
+  },
 ]
+export default people
