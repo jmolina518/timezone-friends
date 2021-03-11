@@ -1,5 +1,5 @@
 import React from 'react'
-import DateTime from '../components/DateTime'
+import DateTime from './components/DateTime'
 
 const List = ({ people }) => {
   return (
