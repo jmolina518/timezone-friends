@@ -13,7 +13,7 @@ const List = ({ people }) => {
               <h4>{name}</h4>
               <p>{timezone}</p>
               <p>
-                <DateTime />
+                <DateTime timezone={timezone} />
               </p>
             </div>
           </article>
