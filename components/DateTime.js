@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 
-export const DateTime = () => {
+export const DateTime = ({ timezone }) => {
   var [date, setDate] = useState(new Date())
 
   useEffect(() => {
@@ -13,7 +13,7 @@ export const DateTime = () => {
   return (
     <div>
       <p> Date : {date.toLocaleDateString()}</p>
-      <p> Time : {date.toLocaleTimeString()}</p>
+      <p> Time : {date.toLocaleTimeString('es-ES', { timeZone: timezone })}</p>
     </div>
   )
 }
