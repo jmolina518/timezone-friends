@@ -29,7 +29,7 @@ const people = [
   },
   {
     id: 5,
-    name: 'Charles Desider',
+    name: 'Charles Desiderio',
     timezone: 'America/Chicago',
     image:
       'https://pbs.twimg.com/profile_images/1233168090797629444/XtZK9MW7_400x400.jpg',
