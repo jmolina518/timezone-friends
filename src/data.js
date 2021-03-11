@@ -41,4 +41,11 @@ export default [
     image:
       'https://pbs.twimg.com/profile_images/1352285231030689794/MgpWv4q0_400x400.jpg',
   },
+  {
+    id: 7,
+    name: 'Edan Ben-Atar',
+    timezone: 'America/New_York',
+    image:
+      'https://pbs.twimg.com/profile_images/1339937435879415809/5Auv4Yf-_400x400.jpg',
+  },
 ]
