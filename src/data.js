@@ -49,7 +49,7 @@ const people = [
       'https://pbs.twimg.com/profile_images/1339937435879415809/5Auv4Yf-_400x400.jpg',
   },
   {
-    id: 7,
+    id: 8,
     name: 'Kelsi Proulx',
     timezone: 'America/Los_Angeles',
     image:
