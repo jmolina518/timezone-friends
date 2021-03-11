@@ -142,8 +142,9 @@ main {
 
 .container {
   width: 90vw;
+  display: flex;
+  flex-wrap: wrap;
   margin: 5rem 0;
-  max-width: var(--fixed-width);
   background: var(--clr-white);
   border-radius: var(--radius);
   padding: 1.5rem 2rem;
@@ -160,7 +161,10 @@ main {
   column-gap: 0.75rem;
   margin-bottom: 1.5rem;
   align-items: center;
+  margin: auto;
+  width: 15em;
 }
+
 .person img {
   width: 75px;
   height: 75px;
