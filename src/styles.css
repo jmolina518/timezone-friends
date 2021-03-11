@@ -161,6 +161,7 @@ main {
   column-gap: 0.75rem;
   margin-bottom: 1.5rem;
   align-items: center;
+  padding: 1rem;
   margin: auto;
   width: 15em;
 }
