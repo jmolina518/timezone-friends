@@ -55,5 +55,33 @@ const people = [
     image:
       'https://pbs.twimg.com/profile_images/1369160136141377539/biO8qtON_400x400.jpg',
   },
+  {
+    id: 9,
+    name: 'Freddie Carthy',
+    timezone: 'America/Los_Angeles',
+    image:
+      'https://pbs.twimg.com/profile_images/1338009004866355200/XmU0LBJ1_400x400.jpg',
+  },
+  {
+    id: 10,
+    name: 'Vlad Pasca',
+    timezone: 'GMT',
+    image:
+      'https://pbs.twimg.com/profile_images/1339833431509905408/AVKBXwX0_400x400.jpg',
+  },
+  {
+    id: 11,
+    name: 'Andres Contreras',
+    timezone: 'GMT',
+    image:
+      'https://pbs.twimg.com/profile_images/631564822568640512/5J5w9_q0_400x400.png',
+  },
+  {
+    id: 12,
+    name: 'Mark Freeman',
+    timezone: 'GMT',
+    image:
+      'https://pbs.twimg.com/profile_images/1369054987792289797/fLyFm_XL_400x400.jpg',
+  },
 ]
 export default people
