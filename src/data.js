@@ -83,5 +83,12 @@ const people = [
     image:
       'https://pbs.twimg.com/profile_images/1369054987792289797/fLyFm_XL_400x400.jpg',
   },
+  {
+    id: 13,
+    name: 'Laura Todd',
+    timezone: 'Europe/London',
+    image:
+      'https://pbs.twimg.com/profile_images/1370693324512837635/wSKanN3o_400x400.jpg',
+  },
 ]
 export default people
