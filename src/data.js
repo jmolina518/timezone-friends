@@ -65,21 +65,21 @@ const people = [
   {
     id: 10,
     name: 'Vlad Pasca',
-    timezone: 'GMT',
+    timezone: 'Europe/Bucharest',
     image:
       'https://pbs.twimg.com/profile_images/1339833431509905408/AVKBXwX0_400x400.jpg',
   },
   {
     id: 11,
     name: 'Andres Contreras',
-    timezone: 'GMT',
+    timezone: 'Europe/Stockholm',
     image:
       'https://pbs.twimg.com/profile_images/631564822568640512/5J5w9_q0_400x400.png',
   },
   {
     id: 12,
     name: 'Mark Freeman',
-    timezone: 'GMT',
+    timezone: 'Europe/London',
     image:
       'https://pbs.twimg.com/profile_images/1369054987792289797/fLyFm_XL_400x400.jpg',
   },

@@ -12,7 +12,7 @@ export const DateTime = ({ timezone }) => {
 
   return (
     <div>
-      <p> Date : {date.toLocaleDateString()}</p>
+      <p> Date : {date.toLocaleDateString('en-US')}</p>
       <p> Time : {date.toLocaleTimeString('es-ES', { timeZone: timezone })}</p>
     </div>
   )
