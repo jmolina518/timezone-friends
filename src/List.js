@@ -12,9 +12,9 @@ const List = ({ people }) => {
             <div>
               <h4>{name}</h4>
               <p>{timezone}</p>
-              <p>
+              <div>
                 <DateTime timezone={timezone} />
-              </p>
+              </div>
             </div>
           </article>
         )
