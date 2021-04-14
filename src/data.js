@@ -18,7 +18,7 @@ const people = [
     name: 'Shaquil Hansford',
     timezone: 'America/Detroit',
     image:
-      'https://pbs.twimg.com/profile_images/1363959225483943939/5CMcxvCo_400x400.jpg',
+      'https://pbs.twimg.com/profile_images/1381236982177751046/_kZfXCC2_400x400.jpg',
   },
   {
     id: 4,
@@ -46,7 +46,7 @@ const people = [
     name: 'Edan Ben-Atar',
     timezone: 'America/New_York',
     image:
-      'https://pbs.twimg.com/profile_images/1339937435879415809/5Auv4Yf-_400x400.jpg',
+      'https://pbs.twimg.com/profile_images/1378010377326317569/tCFiHILJ_400x400.jpg',
   },
   {
     id: 8,
@@ -67,7 +67,7 @@ const people = [
     name: 'Vlad Pasca',
     timezone: 'Europe/Bucharest',
     image:
-      'https://pbs.twimg.com/profile_images/1339833431509905408/AVKBXwX0_400x400.jpg',
+      'https://pbs.twimg.com/profile_images/1377357987359100936/uptxZfmS_400x400.jpg',
   },
   {
     id: 11,
