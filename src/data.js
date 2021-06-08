@@ -4,28 +4,28 @@ const people = [
     name: 'Julio Molina',
     timezone: 'America/Chicago',
     image:
-      'https://pbs.twimg.com/profile_images/1369130797450559489/Ap-WRzpK_400x400.jpg',
+      'https://pbs.twimg.com/profile_images/1388228270131486726/gLkx8bSH_400x400.jpg',
   },
   {
     id: 2,
     name: 'Rocco Sangellino',
     timezone: 'America/Denver',
     image:
-      'https://pbs.twimg.com/profile_images/1369046630779908098/gjQqL1dH_400x400.jpg',
+      'https://pbs.twimg.com/profile_images/1388602894258114561/LYpjcAVx_400x400.jpg',
   },
   {
     id: 3,
     name: 'Shaquil Hansford',
     timezone: 'America/Detroit',
     image:
-      'https://pbs.twimg.com/profile_images/1381236982177751046/_kZfXCC2_400x400.jpg',
+      'https://pbs.twimg.com/profile_images/1387992635105812485/54yCv-mQ_400x400.jpg',
   },
   {
     id: 4,
     name: 'James Cox',
     timezone: 'America/Chicago',
     image:
-      'https://pbs.twimg.com/profile_images/1239375276209065986/jH1y6zcd_400x400.jpg',
+      'https://pbs.twimg.com/profile_images/1400123295408742402/QqrAW2K3_400x400.jpg',
   },
   {
     id: 5,
@@ -74,7 +74,7 @@ const people = [
     name: 'Andres Contreras',
     timezone: 'Europe/Stockholm',
     image:
-      'https://pbs.twimg.com/profile_images/631564822568640512/5J5w9_q0_400x400.png',
+      'https://pbs.twimg.com/profile_images/1382922347649368064/djn2wQlh_400x400.jpg',
   },
   {
     id: 12,
@@ -90,5 +90,5 @@ const people = [
     image:
       'https://pbs.twimg.com/profile_images/1370693324512837635/wSKanN3o_400x400.jpg',
   },
-]
-export default people
+];
+export default people;
