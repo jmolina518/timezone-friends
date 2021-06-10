@@ -32,7 +32,7 @@ const people = [
     name: 'Tom Burdak',
     timezone: 'America/Los_Angeles',
     image:
-      'https://pbs.twimg.com/profile_images/1317264333378867201/B3C4wxh9_400x400.jpg',
+      'https://pbs.twimg.com/profile_images/1402852939652345859/FO42ZVDS_400x400.jpg',
   },
   {
     id: 6,
