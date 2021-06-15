@@ -39,7 +39,7 @@ const people = [
     name: 'James Cox',
     timezone: 'America/Chicago',
     image:
-      'https://pbs.twimg.com/profile_images/1400123295408742402/QqrAW2K3_400x400.jpg',
+      'https://pbs.twimg.com/profile_images/1402802422637117451/U-fjmCk6_400x400.jpg',
   },
   {
     id: 7,
